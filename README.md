@@ -1,0 +1,2 @@
+# goalgotrader
+Golang Algotrading Framework
